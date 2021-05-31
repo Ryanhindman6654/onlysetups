@@ -113,8 +113,8 @@ export default function Home() {
                         ❤️
                     </span>{' '}
                     by{' '}
-                    <Link href="http://robsoriano.com/" isExternal>
-                        Robert
+                    <Link href="http://ryansprogramming.com/" isExternal>
+                        Ryan
                     </Link>
                 </Text>
             </Container>
